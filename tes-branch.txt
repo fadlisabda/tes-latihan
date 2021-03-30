@@ -2,3 +2,4 @@ tes branch 1
 tes branch 2
 tes branch 3
 tes branch fitur 1
+tes branch fitur 2
